@@ -1,13 +1,13 @@
 These two files contain code snippets extracted from my recent project at my job,
-which I independently developed and where I am the sole contributor. 
-Unfortunately, due to sensitive data issues, I am only able to share these specific segments.
+which I independently developed and to which I am the sole contributor. 
+Unfortunately, I can only share these specific segments due to sensitive data issues.
 
-Regarding the data, it was meticulously organized in such a way that each individual row representing a 
+Regarding the data, it was meticulously organized in such a way that each row represented a 
 candidate contained dedicated columns for every month spanning from 2004 to 2023. 
-This data architecture adheres to the established company standard for preserving datasets of this nature.
+This data architecture adheres to the established company standard for preserving datasets.
 
-The primary objective of this project was to leverage our extensive and unique database pertaining to the c
-redit ratings and outlooks within Israel's business ecosystem. Our aim was to examine and understand how different credit outlooks 
+The primary objective of this project was to leverage our extensive and unique database about the 
+credit ratings and outlooks within Israel's business ecosystem. Our aim was to examine and understand how different credit outlooks 
 influence the credit scores of companies over various time periods.
 
 The technical phase of our data analysis is now complete, and we are currently in the process of compiling our
@@ -16,3 +16,6 @@ rapidly driving down the credit scores within a short timeframe. Similarly, posi
 This outcome aligns with the intended purpose of these outlooks, which is to act as catalysts for short-term changes in ratings. 
 Additionally, our analysis revealed that companies with stable outlooks tend to maintain their stability,
 gradually converging towards upgraded scores over the long term.
+
+The pdf file provided is the research that was created based on this code's analysis
+
