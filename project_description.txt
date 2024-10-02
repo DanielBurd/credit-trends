@@ -1,0 +1,18 @@
+These two files contain code snippets extracted from my recent project at my job,
+which I independently developed and where I am the sole contributor. 
+Unfortunately, due to sensitive data issues, I am only able to share these specific segments.
+
+Regarding the data, it was meticulously organized in such a way that each individual row representing a 
+candidate contained dedicated columns for every month spanning from 2004 to 2023. 
+This data architecture adheres to the established company standard for preserving datasets of this nature.
+
+The primary objective of this project was to leverage our extensive and unique database pertaining to the c
+redit ratings and outlooks within Israel's business ecosystem. Our aim was to examine and understand how different credit outlooks 
+influence the credit scores of companies over various time periods.
+
+The technical phase of our data analysis is now complete, and we are currently in the process of compiling our
+research findings for publication. A key insight that emerged is the notable impact of negative outlooks, 
+rapidly driving down the credit scores within a short timeframe. Similarly, positive outlooks yield comparable effects. 
+This outcome aligns with the intended purpose of these outlooks, which is to act as catalysts for short-term changes in ratings. 
+Additionally, our analysis revealed that companies with stable outlooks tend to maintain their stability,
+gradually converging towards upgraded scores over the long term.
